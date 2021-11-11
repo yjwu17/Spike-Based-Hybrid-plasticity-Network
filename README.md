@@ -1,5 +1,5 @@
 # Spiking-hybrid-plasticity-neural-network
-- Code for paper *Brain-inspired global-local learning incorporated with neuromorphic computing*. 
+- Our code will be coming soon. 
 - Hybrid plasticity (HP) models provides a generic framework for training global-local hybrid SNNs using pytorch.
 - HP model is designed to support multiple spike coding methods (rate-based and temporal based), multiple neuron models, and learning rules (Hebbian-based, STDP-based etc.)
 - **Note**: If the environment configurations are different, the results may fail to work properly.
@@ -32,12 +32,7 @@ scikit-image 0.15.0
 
 ## Instructions for use
 - File names starting with ‘main_*’ can be run to reproduce the results in this paper.
-- Reproduction instructions 
-    - **File 'Classification'** :  It reports the classification performance of the proposed model (Figure 2-3).
-    - **File 'Tolerance learning'** : It produces the main results of GP-based and HP-based model on the tolerance learning tasks (Figure 4).
-    - **File 'Few-shot learning'**: It produces the main results of GP-based and HP-based model on the few-shot learning tasks (Figure 5).
-    - **File 'Multitask learning'**  :  It produces the main results of GP-based and HP-based model on the multitask learning tasks (Figure 5).
-    
+  
 ## An example demo
 We provide a simple example code to help you quickly run our model and compare with other single-learning models. 
 

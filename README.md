@@ -19,7 +19,6 @@ Cuda 9.0 & cudnn6.0
 
 NVIDIA Titan Xp and NVIDIA GTX 1080. 
 
-
 torch 1.2.0
 
 torchvision 0.2.2
@@ -42,4 +41,5 @@ Expected run time: 30s for one epoch (GTX 1080, one core).
 
 Expected results are shown in the readme file in the ‘simple-example’ folder.
   
-
+## Reference
+1. Wu Y, Zhao R, Zhu J, et al. Brain-inspired global-local hybrid learning towards human-like intelligence[J]. arXiv preprint arXiv:2006.03226, 2020.
